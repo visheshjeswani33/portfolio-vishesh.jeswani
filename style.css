@@ -1,0 +1,39 @@
+ .head{
+
+ background-color: black;
+ color: rgb(255, 255, 255);
+ }
+
+ h1{
+   
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+ }
+
+ .Project{
+ 
+    display: flex;
+    color: crimson;
+    justify-content: center;
+    text-shadow: 1px 1px black;
+ }
+
+ a:link{
+   color: rgb(48, 222, 228);
+ }
+
+ a:hover{
+    color: white;
+ }
+
+ .example{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+ }
+ body {
+ background-color: #181616;
+
+ }
